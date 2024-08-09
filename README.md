@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Opeyemizelsimi
+- 👋 Hi, I’m Simeon Oluwadunsin Deborah
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning phyton programming
 - 💞️ I’m looking to collaborate on ...
